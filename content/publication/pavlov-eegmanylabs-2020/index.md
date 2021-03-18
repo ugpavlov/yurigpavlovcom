@@ -61,7 +61,7 @@ authors:
 - Ilya Zakharov
 - Faisal Mushtaq
 tags:
-- '"⛔ No DOI found"'
+- '""'
 - '"Cognitive Neuroscience"'
 - '"Cognitive Psychology"'
 - '"EEG"'
