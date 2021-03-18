@@ -73,7 +73,7 @@ tags:
 - '"Replication"'
 - '"Social and Behavioral Sciences"'
 categories: []
-date: '2020-11-01'
+date: '2021'
 lastmod: 2021-03-17T19:35:34+01:00
 featured: false
 draft: false
@@ -115,7 +115,7 @@ abstract: 'There is growing awareness across the neuroscience community that the
   a large open access database that can be used to inform future research practices.
   Finally, through this international effort, we hope to create a cultural shift towards
   inclusive, high-powered multi-laboratory collaborations.'
-publication: '*PsyArXiv*'
-url_pdf: https://psyarxiv.com/528nr/
+publication: '*Cortex*'
+url_pdf: \content\publication\pavlov-eegmanylabs-2020\Pavlov et al. EEGManyLabs.pdf
 doi: 10.31234/osf.io/528nr
 ---
