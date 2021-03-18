@@ -116,6 +116,6 @@ abstract: 'There is growing awareness across the neuroscience community that the
   Finally, through this international effort, we hope to create a cultural shift towards
   inclusive, high-powered multi-laboratory collaborations.'
 publication: '*Cortex*'
-url_pdf: content/publication/pavlov-eegmanylabs-2020/p.pdf
+url_pdf: static/papers/p.pdf
 doi: 10.31234/osf.io/528nr
 ---
