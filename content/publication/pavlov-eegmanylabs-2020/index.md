@@ -117,5 +117,5 @@ abstract: 'There is growing awareness across the neuroscience community that the
   inclusive, high-powered multi-laboratory collaborations.'
 publication: '*Cortex*'
 url_pdf: 
-doi: 10.31234/osf.io/528nr
+doi: 10.1016/j.cortex.2021.03.013
 ---
