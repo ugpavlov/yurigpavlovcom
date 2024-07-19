@@ -1,8 +1,8 @@
-module github.com/wowchemy/starter-academic
+module github.com/HugoBlox/hugo-blox-builder/starters/academic-cv
 
-go 1.15
+go 1.19
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210308212518-cf32fde82412 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210308212518-cf32fde82412 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231209203044-d31adfedd40b
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240602133901-492e343c2a33
 )
